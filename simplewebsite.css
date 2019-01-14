@@ -1,0 +1,42 @@
+/*      henlo stinkys uwu      */
+/*      css made by oddri      */
+/*        u can copy tbh       */
+/* this is def not proprietary */
+
+body {
+	height: 100vh;
+	padding: 10vh 10vh 10vh 10vh;
+	background-color: #FF4020;
+	font-family: 'Open Sans', sans-serif;
+	color: #ffffff;
+}
+
+/* fonts + */
+
+h1 {
+	font-size: 10vh;
+}
+
+i {
+	color: #ffffff;
+	font-size: 5vh;
+}
+
+/* ids */
+#main {
+	
+}
+
+#icons {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#footer {
+	position: fixed;
+	width: 100vw;
+	bottom: 0;
+	text-align: center;
+}
